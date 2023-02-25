@@ -1,13 +1,6 @@
 # vt1
-Instalación: 
-apt update
+git branch -m main d1k
+git fetch origin
+git branch -u origin/d1k d1k
+git remote set-head origin -a
 
-apt upgrade
-
-pkg install git
-
-git clone https://github.com/drowkid1/vt1
-
-ls
-
-bash dn_s.sh
