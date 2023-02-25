@@ -5,6 +5,7 @@ echo "========================================="
 echo -e "\e[0;2s Elite Hackers Company LATAM\e[0m" 
 echo "========================================="
 echo "========================================="
+setterm -foreground green
 figlet ELITE
 figlet HACKERS
 figlet COMPANY 
@@ -14,7 +15,7 @@ echo "========================================="
 echo  ▁ ▂ ▄ ▅ ▆ ▇ █ LALO █ ▇ ▆ ▅ ▄ ▂ ▁
 
 sleep 3
-
+setterm -foreground red
 figlet C+ DOMAINS
 
 echo "========================================="
@@ -23,6 +24,8 @@ echo "========================================="
 echo -e "\e[0;7s CODES_\e[0m"
 
 sleep 2
+
+setterm -foreground yellow
 
 echo -e "\e[0;10s vt_1=vt_domains_relationships_\e[0m"
 
