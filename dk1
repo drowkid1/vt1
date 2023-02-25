@@ -2,8 +2,7 @@
 
 echo "========================================="
 echo "========================================="
-echo -e "\e[0;2s Elite Hackers Company LATAM\e[0m"
-apt upgrade figlet 
+echo -e "\e[0;2s Elite Hackers Company LATAM\e[0m" 
 echo "========================================="
 echo "========================================="
 figlet ELITE
@@ -45,6 +44,8 @@ echo -e "\e[0;10s vt_8=cat list_of_domains |-vt_domain_\e[0m"
 
 echo "========================================="
 echo "========================================="
-figlet ELITE HACKERS COMPANY
+figlet ELITE 
+figlet HACKERS 
+figlet COMPANY
 echo "========================================="
 echo "========================================="
