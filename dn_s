@@ -1,0 +1,26 @@
+#!/bin/bash
+echo "========================================="
+echo "========================================="
+sleep 3
+figlet C+ DOMAINS
+
+echo "========================================="
+echo "========================================="
+
+echo -e "\e[0;5s Comandos para buscar dns aquí\e[0m"
+sleep 2
+echo -e "\e[0;8s vt_1=vt_domains_relationships_\e[0m"
+echo -e "\e[0;8s vt_2=vt_domains_graphs_\e[0m"
+echo -e "\e[0;8s vt_3=vt_domains_collections\e[0m"
+echo -e "\e[0;8s vt_4=vt_domains_siblings\e[0m"
+echo -e "\e[0;8s vt_5=vt_domains_parent_\e[0m"
+echo -e "\e[0;8s vt_6=ls-cdTool-Web-RS && l s python,2 Real-DNS\e[0m"
+echo -e "\e[0;8s vt_7=vt_search_\e[0m"
+echo -e "\e[0;8s vt_8=cat list_of_domains |-vt_domain_\e[0m"
+
+echo "========================================="
+echo "========================================="
+
+figlet ERES UNA BERGA
+echo "========================================="
+echo "========================================="
