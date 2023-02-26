@@ -15,18 +15,13 @@ figlet LALO
 echo "========================================="
 sleep 2
 figlet C+ DOMAINS
-
 echo "========================================="
 echo "========================================="
 
 echo -e "\e[0;7s CODES_\e[0m"
-
 sleep 2
-
 setterm -foreground yellow
-
 echo -e "\e[0;10s vt_domains_relationships_\e[0m"
-
 echo -e "\e[0;10s vt_domains_graphs_\e[0m"
 
 echo -e "\e[0;10s vt_domains_collections\e[0m"
