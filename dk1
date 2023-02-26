@@ -5,15 +5,14 @@ echo "========================================="
 echo -e "\e[0;2s Elite Hackers Company LATAM\e[0m" 
 echo "========================================="
 echo "========================================="
-setterm -foreground green
 figlet ELITE
 figlet HACKERS
 figlet COMPANY 
 echo "========================================="
 echo "========================================="
 
-echo  ▁ ▂ ▄ ▅ ▆ ▇ █ LALO █ ▇ ▆ ▅ ▄ ▂ ▁
-
+figlet LALO
+echo "========================================="
 sleep 3
 setterm -foreground red
 figlet C+ DOMAINS
@@ -27,23 +26,23 @@ sleep 2
 
 setterm -foreground yellow
 
-echo -e "\e[0;10s vt_1=vt_domains_relationships_\e[0m"
+echo -e "\e[0;10s vt_domains_relationships_\e[0m"
 
-echo -e "\e[0;10s vt_2=vt_domains_graphs_\e[0m"
+echo -e "\e[0;10s vt_domains_graphs_\e[0m"
 
-echo -e "\e[0;10s vt_3=vt_domains_collections\e[0m"
+echo -e "\e[0;10s vt_domains_collections\e[0m"
 
-echo -e "\e[0;10s vt_4=vt_domains_siblings\e[0m"
+echo -e "\e[0;10s vt_domains_siblings\e[0m"
 
-echo -e "\e[0;10s vt_5=vt_domains_parent_\e[0m"
+echo -e "\e[0;10s vt_domains_parent_\e[0m"
 
-echo -e "\e[0;10s vt_6=ls-cdTool-Web-RS &&\e[0m"
+echo -e "\e[0;10s ls-cdTool-Web-RS &&\e[0m"
 
 echo -e "\e[0;10s l s python,2 Real-DNS\e[0m"
 
-echo -e "\e[0;10s vt_7=vt_search_\e[0m"
+echo -e "\e[0;10s vtsearch \e[0m"
 
-echo -e "\e[0;10s vt_8=cat list_of_domains |-vt_domain_\e[0m"
+echo -e "\e[0;10s cat list_of_domains |-vt_domain_\e[0m"
 
 echo "========================================="
 echo "========================================="
