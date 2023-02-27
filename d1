@@ -14,25 +14,24 @@ echo "========================================="
 setterm -foreground yellow
 figlet LALO
 echo "========================================="
-big WEB EXCLUSIVE
-big FOR HACKERS
+figlet WEB EXCLUSIVE
+figlet FOR HACKERS
 setterm -foreground red
-big ALERT ALERT
+figlet ALERT ALERT
 sleep 2
 setterm -foreground red
 figlet C+ DOMAINS
 echo "========================================="
 echo "========================================="
-
 echo -e "\e[0;7s CODES_\e[0m"
 sleep 2
 setterm -foreground yellow
-echo -e "\e[0;10s vt_domains_relationships_\e[0m"
-echo -e "\e[0;10s vt_domains_graphs_\e[0m"
+echo -e "\e[0;10s vtdomain-relationships \e[0m"
+echo -e "\e[0;10s vtdomain graphs \e[0m"
 
-echo -e "\e[0;10s vt_domains_collections\e[0m"
+echo -e "\e[0;10s vtdomains_collections\e[0m"
 
-echo -e "\e[0;10s vt_domains_siblings\e[0m"
+echo -e "\e[0;10s vtdomains_siblings\e[0m"
 
 echo -e "\e[0;10s vt_domains_parent_\e[0m"
 
