@@ -16,7 +16,6 @@ figlet LALO
 echo "========================================="
 figlet WEB EXCLUSIVE
 figlet FOR HACKERS
-setterm -foreground red
 figlet ALERT ALERT
 sleep 2
 setterm -foreground red
@@ -26,22 +25,22 @@ echo "========================================="
 echo -e "\e[0;7s CODES_\e[0m"
 sleep 2
 setterm -foreground yellow
-echo -e "\e[0;10s vtdomain-relationships \e[0m"
-echo -e "\e[0;10s vtdomain graphs \e[0m"
+echo -e "\e[0;10s vt domain relationships \e[0m"
+echo -e "\e[0;10s vt domain graphs \e[0m"
 
-echo -e "\e[0;10s vtdomains_collections\e[0m"
+echo -e "\e[0;10s vt domain collections\e[0m"
 
-echo -e "\e[0;10s vtdomains_siblings\e[0m"
+echo -e "\e[0;10s vt domain siblings\e[0m"
 
-echo -e "\e[0;10s vt_domains_parent_\e[0m"
+echo -e "\e[0;10s vt domain parent\e[0m"
 
 echo -e "\e[0;10s ls-cdTool-Web-RS &&\e[0m"
 
 echo -e "\e[0;10s l s python,2 Real-DNS\e[0m"
 
-echo -e "\e[0;10s vtsearch \e[0m"
+echo -e "\e[0;10s vt search \e[0m"
 
-echo -e "\e[0;10s cat list_of_domains |-vt_domain_\e[0m"
+echo -e "\e[0;10s cat list of domains |-vt domain\e[0m"
 
 echo "========================================="
 echo "========================================="
