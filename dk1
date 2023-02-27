@@ -1,6 +1,5 @@
 #!/bin/bash
 
-figlet
 echo "========================================="
 echo "========================================="
 echo -e "\e[0;2s Elite Hackers Company LATAM\e[0m" 
